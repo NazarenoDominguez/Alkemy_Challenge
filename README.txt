@@ -16,7 +16,8 @@ Uso del programa:
 		1.	pip install -r requirements.txt
 
 •	seteado de base de datos
-		en el archivo .env encontraremos:
+		debes crear el archivo .env
+		en el archivo .env escribiremos:
 
 
 		DATABASE_HOSTNAME=localhost
