@@ -1,0 +1,1 @@
+el seteado de los logs se encuentran en la carpeta logger de cada modulo
